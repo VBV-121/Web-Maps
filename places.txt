@@ -1,0 +1,5 @@
+name,place,elev,LAT,LON
+here,mumbai,233,19.1111,70.5
+there,mumbai,195,19.56,76.8
+any_where,mumbai,485,20.56,74.5
+where,mumbai,987,21.45,72.56
